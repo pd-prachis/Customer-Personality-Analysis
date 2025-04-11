@@ -1,6 +1,6 @@
 # Customer-Personality-Analysis-Dashboard
 
-### 📊 Dashboard Link: 
+### 📊 Dashboard Link: https://app.powerbi.com/groups/me/reports/b598817d-23f3-4536-a989-2bf1dafa4ca4/1bfbd6af8a0bb0d154bb?experience=power-bi
 
 ---
 
